@@ -57,7 +57,7 @@ Karşılaştırma menüsü, seçilen iki aynı tür şirketin özelliklerini kı
 Uygulama üzerinden rezervasyon yapmak ve otele kendi iletişim yollarından ulaşmak gibi iki seçenekle karşı karşıya kalır.
 Uygulama üzerinden rezervasyon yapan kullanıcılar, belirli kriterleri karşılayarak indirim kuponları gibi ödüller kazanırlar.
 Uygulamadan rezervasyon yapıldıktan sonra, kullanıcının profiline ortalama olarak otellerle kıyasla dünyaya yayılmasını desteklemediği zararlı maddeler eklenir.
-+ Bu örnekte, örnek olarak diğer oteller yerine bu oteli tercih ederek karbon salınımı konusunda diğer turistlere kıyasla %X daha az zarar vermiş ise profile bu miktar eklenir.+ Profile ekleme sistemi isteğe bağlıdır. Rezervasyon sırasında bu durum iptal edilebilir.
+Bu örnekte, örnek olarak diğer oteller yerine bu oteli tercih ederek karbon salınımı konusunda diğer turistlere kıyasla %X daha az zarar vermiş ise profile bu miktar eklenir.+ Profile ekleme sistemi isteğe bağlıdır. Rezervasyon sırasında bu durum iptal edilebilir.
 Otel dönüşü sonrası kullanıcı, uygulamada yorum yaparak bu otel hakkında tecrübelerini paylaşabilir ve rekabette görünümüne etki edebilir.
 
 
